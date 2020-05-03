@@ -4,7 +4,7 @@
 -------------------------------------*/
 body {
   font-family: 'Lato', sans-serif;
-  color: #716d6e;
+  color: #ff9999;
 }
 /* Animation Delay
 --------------------------------------------*/
@@ -154,7 +154,7 @@ header .header-info .language-switch .dropdown-menu {
   padding: 0;
 }
 header .header-info .language-switch .dropdown-menu li a {
-  color: #716d6e;
+  color: #ff9999;
   padding: 5px 15px 5px 15px;
   background-image: none;
 }
@@ -186,7 +186,7 @@ header .navbar-default .navbar-collapse {
 header .navbar-default .navbar-nav > .active > a {
   background-color: #fff;
   border: 2px solid #dba4b1;
-  color: #716d6e;
+  color: #ff9999;
   background-color: transparent;
 }
 header .navbar-default .navbar-nav > li > a {
@@ -199,7 +199,7 @@ header .navbar-default .navbar-nav > li > a:hover {
   background-color: #fff;
   border: 2px solid #fff;
   background-color: #e7e7e7;
-  color: #716d6e;
+  color: #ff9999;
 }
 .navbar-nav.navbar-right:last-child {
   margin-right: -9px;
@@ -316,7 +316,7 @@ header.large .brand {
   background-color: #efe9e9;
   font-weight: bold;
   font-size: 16px;
-  color: #716d6e;
+  color: #ff9999;
   width: 110px;
   text-align: left;
 }
@@ -325,7 +325,7 @@ header.large .brand {
   margin: 0 2px 0 -2px;
 }
 #teaser form .different-drop-off {
-  color: #716d6e;
+  color: #ff9999;
   font-weight: bold;
   margin: 10px 0;
   display: block;
@@ -381,7 +381,7 @@ header.large .brand {
   transition: 0.2s;
 }
 #teaser form .submit:hover {
-  background-color: #716d6e;
+  background-color: #ff9999;
 }
 #teaser .title {
   color: #fff;
@@ -527,15 +527,15 @@ header.large .brand {
   font-size: 18px;
   font-weight: 900;
   text-transform: uppercase;
-  color: #716d6e;
+  color: #ff9999;
   padding: 0 10px;
   height: 37px;
   line-height: 36px;
   transition: 0.2s;
 }
 #newsletter .newsletter-form .button:hover {
-  background-color: #716d6e;
-  border: 2px solid #716d6e;
+  background-color: #ff9999;
+  border: 2px solid #ff9999;
   color: #fff;
 }
 #newsletter .social-icons {
@@ -633,7 +633,7 @@ header.large .brand {
 }
 #vehicles .vehicle-nav li a {
   font-size: 18px;
-  color: #716d6e;
+  color: #ff9999;
   padding-left: 15px;
   display: block;
   height: 60px;
@@ -702,7 +702,7 @@ header.large .brand {
   transition: .2s;
 }
 #vehicles .reserve-button:hover {
-  background-color: #716d6e;
+  background-color: #ff9999;
 }
 #vehicles .reserve-button span {
   margin-right: 7px;
@@ -757,7 +757,7 @@ header.large .brand {
   margin: 0;
   width: 12px;
   height: 12px;
-  background-color: #716d6e;
+  background-color: #ff9999;
 }
 /* Locations
 --------------------------------------------*/
@@ -871,10 +871,10 @@ header.large .brand {
   transition: .2s;
 }
 #information .btn:hover {
-  background-color: #716d6e;
+  background-color: #ff9999;
 }
 #information .btn-gray {
-  background-color: #716d6e;
+  background-color: #ff9999;
 }
 #information .btn-gray:hover {
   background-color: #c61334;
@@ -1007,7 +1007,7 @@ header.large .brand {
   border-radius: 0;
 }
 #contact form .submit-message:hover {
-  background-color: #716d6e;
+  background-color: #ff9999;
 }
 #contact .contact-box-title {
   font-size: 18px;
@@ -1059,7 +1059,7 @@ footer .footer-nav li {
 footer .footer-nav li a {
   font-size: 18px;
   text-decoration: underline;
-  color: #716d6e;
+  color: #ff9999;
   font-weight: bold;
 }
 /* Checkout Modal
@@ -1112,7 +1112,7 @@ footer .footer-nav li a {
 #checkoutModal .checkout-info-box h3 {
   margin: 0;
   margin-bottom: 15px;
-  color: #716d6e;
+  color: #ff9999;
 }
 #checkoutModal .checkout-info-box h3 i {
   font-size: 23px;
@@ -1294,7 +1294,7 @@ footer .footer-nav li a {
   border-color: #b8b6b6;
 }
 #checkoutModal .modal-footer .btn-gray button {
-  background-color: #716d6e;
+  background-color: #ff9999;
 }
 /* Start Media Queries
 ------------------------------------------------*/
@@ -1552,7 +1552,7 @@ footer .footer-nav li a {
     position: absolute;
     width: 100%;
     margin: 15px 0 0 0;
-    border: 14px solid #ffbf00;
+    border: 14px solid #d01c35;
     border-top: none;
     box-shadow: 0px 4px 1px -1px rgba(50, 50, 50, 0.32);
   }
