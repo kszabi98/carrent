@@ -7,11 +7,11 @@ header{
 }
 
 #vehicles .vehicle-nav li.active {
-	background-color: #ffbf00;
+	background-color: #d01c35;
 }
 
 #vehicles .vehicle-nav li.active span {
-	border-left-color: #ffbf00;
+	border-left-color: #d01c35;
 }
 
 #vehicles .vehicle-price {
